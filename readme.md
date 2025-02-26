@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** with a background in **Full Stack Web Development**   skill set and a drive for excellence, I strive to deliver high-quality software solutions that make a difference. Currently, I am honing my skills and contributing to innovative projects at XSInfosol.
+Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** with a background in **Full Stack Web Development**. With a strong skill set and a drive for excellence, I strive to deliver high-quality software solutions that make a difference. Currently, I am honing my skills and contributing to innovative projects at XSInfosol.
 
 ---
 
@@ -16,8 +16,8 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 
 **Software Engineer at XSInfosol**
 
-- **Duration:** Present
-- **Role:** Working on the development, testing, and upkeep of software applications, implementing Human  Authentication through PHP, and partnering with interdisciplinary teams to provide solid software solutions.
+- **Duration:** July 2022 – Present
+- **Role:** Working on the development, testing, and upkeep of software applications, implementing Human Authentication through PHP, and partnering with interdisciplinary teams to provide solid software solutions.
 
 ---
 
@@ -25,8 +25,8 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 
 **Full Stack Web Developer at 121.page**
 
-- **Duration:** 2 Year
-- **Role:**  Developed and sustained a multi-tenant SaaS application, engaged in both client-side and server-side development, ensured fluid user interactions, and incorporated adaptive design on a computing platform.
+- **Duration:** 3 Years
+- **Role:** Developed and sustained a multi-tenant SaaS application, engaged in both client-side and server-side development, ensured fluid user interactions, and incorporated adaptive design on a computing platform.
 
 ---
 
@@ -43,8 +43,6 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-f9343a?style=for-the-badge&logo=Laravel&logoColor=black)
 ![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=black)
-
-
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,15 +61,12 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 ### Project 2: Real-time Chat Application
 **Description:** Built a real-time chat application using WebSockets, allowing users to communicate instantly with features like typing indicators, message history, and group chats.
 
-<!-- ### Project 3: Biometric Authentication System -->
-<!-- **Description:** Designed and implemented a biometric authentication system using machine learning algorithms. Trained models in Python with TensorFlow and Keras to recognize and verify users based on fingerprint and facial recognition data. -->
-
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA)**  
-[Indira Gandhi Nation Open University](http://www.ignou.ac.in/)
+**Bachelor of Technology (B.Tech)**  
+[BIT Muzaffarnagar College, Kailashpur, Uttar Pradesh](https://www.bhagwantgroup.com)
 
 ---
 
@@ -79,8 +74,8 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 
 Feel free to reach out to me for collaboration, job opportunities, or any queries!
 
-- **Work Email:** [pk8265850659@xsinfosol.com](mailto:ashish@theashishkumar.info)
-- **Personal Email:** [pk8265850659@xsinfosol.com](mailto:Ashishkumar23102003@gmail.com)
+- **Work Email:** [pk8265850659@xsinfosol.com](mailto:pk8265850659@xsinfosol.com)
+- **Personal Email:** [pk8265850659@gmail.com](mailto:pk8265850659@gmail.com)
 - **LinkedIn:** [linkedin.com/in/parvendra-kumar-511092227](https://www.linkedin.com/in/parvendra-kumar-511092227/)
 - **GitHub:** [github.com/parvendrakumar](https://github.com/parvendrakumar)
 - **CodePen:** [codepen.io/parvendrakumar](https://codepen.io/parvendrakumar)
