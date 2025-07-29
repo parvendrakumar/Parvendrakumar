@@ -55,8 +55,20 @@ Hello! I'm Parvendra Kumar, a passionate and dedicated **Software Engineer** wit
 
 ## Projects
 
-### Project 1: E-commerce Platform
-**Description:** Developed a full-fledged e-commerce platform with features like user authentication, product management, shopping cart, and payment gateway integration.
+### Project 1: Digital Communication Innovation Square
+**Description:** Government innovation funding and milestone management system with multiple modules for tracking progress and releasing funds.
+
+Key Features
+•
+Dashboard and KPI tracking
+•
+Milestone management and fund release
+•
+User rights management
+•
+Group assignment and member management
+•
+Document and file management.
 
 ### Project 2: Real-time Chat Application
 **Description:** Built a real-time chat application using WebSockets, allowing users to communicate instantly with features like typing indicators, message history, and group chats.
