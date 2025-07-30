@@ -70,7 +70,7 @@ Group assignment and member management
 •
 Document and file management.
 
-### Project 2: Bharat 6G Alliance
+### Project 2:  Bharat Telecom 2025
 **Description:** Bharat Telecom 2025 is a large-scale event management and digital expo platform designed for a national-level telecom conference. The system provides extensive tools for user registration, content control, B2B meeting management, real-time dashboards, booth configuration, and communication.
 Key Modules & Features
 🔹 Core Modules
