@@ -70,11 +70,51 @@ Group assignment and member management
 •
 Document and file management.
 
-### Project 2: Real-time Chat Application
-**Description:** Built a real-time chat application using WebSockets, allowing users to communicate instantly with features like typing indicators, message history, and group chats.
+### Project 2: Bharat 6G Alliance
+**Description:** Bharat Telecom 2025 is a large-scale event management and digital expo platform designed for a national-level telecom conference. The system provides extensive tools for user registration, content control, B2B meeting management, real-time dashboards, booth configuration, and communication.
+Key Modules & Features
+🔹 Core Modules
+• Dashboard (Numerical & Graphical Views, Search by Date)
+• User Management (User Master, User Type, Designation, Email Handling, Unsubscribed Users)
+• Registration Management (Exhibitor, Delegate, Speaker, Visitor, Organizer, MC, Media, Support Staff)
+
+🔹 Event Operations
+• Badge Templates & Printing Management
+• Booth Management (Booth Template, Booth Categories, Hall Creation)
+• Floor Plan Visualization
+• Session Guide, Seminar Listings, Speaker Management
+• Quiz & Chat Management
+• Gate Management for Access Control
+
+🔹 B2B Interaction
+• Add B2B Meetings
+• Send/Receive Limits
+• B2B Feedback & Reporting
+• B2B Settings Management
+
+🔹 Content & Web CMS
+• Home Banner, Event Highlights, Service & Announcement Sections
+• Page Creation and Menu Assignment
+• Partner, Sponsor, Brochure, Gallery, and Logo Management
+
+🔹 Event App Integration
+• App Menu Control
+• Event Info (About, Contact, Venue, Local Info, FAQs, Internet Guide)
+• Session & Meeting Management
+• Notification Settings and Redirection Configurations
+
+🔹 Settings & Advanced Tools
+• Delegation List
+• Social Media & Mail Settings
+• Email & WhatsApp Templates
+• Feedback Lists
+• Reimbursement Module
+• Country & Exhibition Category Masters
+• Poll Management
+• Menu Rights & Access Controls
+
 
 ---
-
 ## Education
 
 **Bachelor of Technology (B.Tech)**  
