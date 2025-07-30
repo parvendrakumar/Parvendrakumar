@@ -112,8 +112,40 @@ Key Modules & Features
 • Country & Exhibition Category Masters
 • Poll Management
 • Menu Rights & Access Controls
+### Project 3: DPS Society 
+**Description:**The DPS Society Portal is a content-driven, multi-page website and admin panel designed to represent the Delhi Public School Society. The platform includes a dynamic front-end for public interaction and a robust admin panel for internal content management. It highlights the Society's history, schools, governing members, events, and achievements.
+Key Frontend Modules
+• Home – Welcome content with banners and featured sections
+• Members of DPS Society – Directory of governing and working members
+• DPS Schools – List of all affiliated DPS institutions
+• Hall of Fame – Highlights of exceptional alumni and contributors
+• Events – Showcase of monthly or yearly academic and cultural events
 
+Admin Panel Modules
+🛠️ Content & Menu Management
+• Dashboard – Overview of activities and content statistics
+• Menu Master – Create and manage navigation menus
+• Page Master – Add, edit, and assign dynamic pages
+• Assign Menu to Page – Link pages to menus for frontend display
+• Manage Page – Edit or remove existing content pages
 
+🖼️ Visual & Banner Management
+• Home Master – Control home page layout
+• Manage Banner – Upload and configure homepage sliders
+
+👥 Member & Committee Management
+• Governing Body Members
+• Working Committee Members
+• Spanning 70 Years – Historical contributions and legacy
+• Remembered Respectfully – Memorial section
+• Affairs (Leaders) – Leadership updates and profiles
+
+📸 Media & Events
+• Monthly Events – Schedule and showcase recurring events
+• Content Master – Manage text and data across the portal
+• Gallery Category and Manage Gallery – Organize and publish media
+• Manage Schools – Add/edit affiliated school details
+• Achievements – Highlight awards and recognitions
 ---
 ## Education
 
