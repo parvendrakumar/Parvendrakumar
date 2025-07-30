@@ -139,13 +139,14 @@ Admin Panel Modules
 • Spanning 70 Years – Historical contributions and legacy
 • Remembered Respectfully – Memorial section
 • Affairs (Leaders) – Leadership updates and profiles
-
 📸 Media & Events
 • Monthly Events – Schedule and showcase recurring events
 • Content Master – Manage text and data across the portal
 • Gallery Category and Manage Gallery – Organize and publish media
 • Manage Schools – Add/edit affiliated school details
 • Achievements – Highlight awards and recognitions
+
+
 ---
 ## Education
 
